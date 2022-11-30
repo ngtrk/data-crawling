@@ -9,4 +9,4 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, lik
 ROBOTSTXT_OBEY = False
 
 ## 2. Youtube
-Crawling video info of a Youtube channel. Insert data to MySQL database using PyMySQL.
+Crawling video info of an Youtube channel. Insert collected data into MySQL database using PyMySQL.
